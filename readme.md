@@ -24,7 +24,7 @@ Este projeto é um automatizador de atualização de IP para o Cloudflare, funci
 1. Clone o repositório:
 
 ```bash
-   git clone https://github.com/seuusuario/cloudflare-ip-updater.git
+   git clone https://github.com/frankduque/cloudflare-ip-updater.git
 ```
 
 2. Compile o projeto em Go:

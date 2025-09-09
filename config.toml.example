@@ -1,0 +1,4 @@
+apiURL = "https://api.cloudflare.com/client/v4/zones"
+cloudflareZoneID = "your_zone_id"
+apiToken = "your_api_token"
+recordNames = ["your_record_name_1.example.com", "your_record_name_2.example.com"]

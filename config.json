@@ -1,6 +1,0 @@
-{
-    "apiURL": "https://api.cloudflare.com/client/v4/zones",
-    "cloudflareZoneID": "ZoneID",
-    "apiToken": "APIToken",
-    "recordNames": ["subdomain1", "subdomain2"]
-}
